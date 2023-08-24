@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rukunul Joy</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
-<img align="right" alt="profile" width="400" src="https://i.ibb.co/G33JNhP/348883853-945510670066017-2536242870447683442-n.jpg">
+<img align="right" alt="profile" width="300" src="https://i.ibb.co/G33JNhP/348883853-945510670066017-2536242870447683442-n.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukunuljoy&label=Profile%20views&color=0e75b6&style=flat" alt="rukunuljoy" /> </p>
 
