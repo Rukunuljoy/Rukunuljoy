@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukunuljoy&label=Profile%20views&color=0e75b6&style=flat" alt="rukunuljoy" /> </p>
 
-- 🌱 I’m currently learning **NextJS, Redux,TypeScript,Prisma,Microserver,postgreSQL**
+- 🌱 I’m currently learning **NextJS, Redux,TypeScript,Prisma**
 
 - 👨‍💻 All of my projects are available at [https://golden-mooncake-6e7c59.netlify.app/](https://golden-mooncake-6e7c59.netlify.app/)
 
-- 💬 Ask me about **React,NextJs,Typescript,Mern,postgreSQL**
+- 💬 Ask me about **React,NextJs,Typescript,Mern**
 
 - 📫 How to reach me **rukunuljoypub58@gmail.com**
 
