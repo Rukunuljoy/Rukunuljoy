@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS, Redux,TypeScript,Prisma**
 
-- 👨‍💻 All of my projects are available at [https://golden-mooncake-6e7c59.netlify.app/](https://golden-mooncake-6e7c59.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-omega-eight-27.vercel.app/]
 
 - 💬 Ask me about **React,NextJs,Typescript,Mern**
 
